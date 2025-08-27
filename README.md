@@ -1,4 +1,3 @@
-# joelhelve.github.io
-DONT BLAME ME
+DON'T BLAME ME
 ______
 JOEL HELVE
